@@ -5,7 +5,7 @@ public class TarjetaCredito {
     private String date;
     private String cvv;
 
-    TarjetaCredito(String number, String date, String cvv) {
+    public TarjetaCredito(String number, String date, String cvv) {
         this.number = number;
         this.date = date;
         this.cvv = cvv;
