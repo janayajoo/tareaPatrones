@@ -1,6 +1,5 @@
 package problema_2;
 
-import problema_2.orden.Orden;
 import problema_2.strategies.PagoDigital;
 import problema_2.strategies.PagoPayPal;
 import problema_2.strategies.PagoStrategy;

@@ -1,4 +1,4 @@
-package problema_2.orden;
+package problema_2;
 
 import problema_2.strategies.PagoStrategy;
 
