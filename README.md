@@ -8,8 +8,8 @@ Luis Angel Bernal Perez 0000317613 <br />
 <br />
 Problema 1: <br />
 En el problema 1 elegí el patrón template method porque como lo indica el problema, hay algunos pasos que se repiten en todos los productos, por lo mismo, como lo establece el patrón, hice los métodos que se tenían; verificación de inventario,  facturación y notificación al cliente y con estos mismos, hice una super clase “pasos generales” en donde se tienen los métodos y adapte las subclases para que puedan compartir
+![3](https://github.com/janayajoo/tareaPatrones/assets/35385564/d0747981-cc79-4312-a0f5-98f725026d4b)
 
-![1](https://github.com/janayajoo/tareaPatrones/assets/35385564/68a22268-93fe-4843-b3ec-535e2b5410e4)
 
 <br />
 <br />
@@ -29,6 +29,6 @@ Diagrama Clase Prob 2
 <br />
 Problema 3: <br />
 Escogimos el método de builder para el tercer ejercicio porque se requeria crear objeto personalizable, este siendo la orden del cliente. Esto se cumplió con una clase builder y mucho objetos tipo ingrediente.
+![1](https://github.com/janayajoo/tareaPatrones/assets/35385564/68a22268-93fe-4843-b3ec-535e2b5410e4)
 
 
-![3](https://github.com/janayajoo/tareaPatrones/assets/35385564/d0747981-cc79-4312-a0f5-98f725026d4b)
